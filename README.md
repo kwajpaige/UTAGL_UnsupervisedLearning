@@ -38,9 +38,9 @@ Cluster 2: 221 members
 - Median: Total vistis online:4
 - Median: total calls made: 9
 
-- Cluster 0 represents the small number of customers with multiple credit cards and higher average credit limits. these customers appear to monitor their credit online and require very little support
-- Cluster 1 represent customers with fewer credit cards than those customers in cluster 0; these customers vist the bank more than onlineand also need little support
-- Cluster 2 customers have the fewest number of credit cards and the lowest average credit limit; these customers require more support and do not visit the bank often
+Cluster 0 represents the small number of customers with multiple credit cards and higher average credit limits. these customers appear to monitor their credit online and require very little support
+Cluster 1 represent customers with fewer credit cards than those customers in cluster 0; these customers vist the bank more than onlineand also need little support
+Cluster 2 customers have the fewest number of credit cards and the lowest average credit limit; these customers require more support and do not visit the bank often
 
 Recommendations:
 - Build more models using a variety of hierarchical techniques to seek to improve the hierarchical clustering model
